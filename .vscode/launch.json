@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/leoma/OneDrive/Documentos/GitHub/projeto-notifica-o",
-      "program": "c:/Users/leoma/OneDrive/Documentos/GitHub/projeto-notifica-o/build/Debug/outDebug",
+      "program": "c:/Users/leoma/OneDrive/Documentos/GitHub/projeto-notifica-o/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
