@@ -1,4 +1,4 @@
-# projeto-notifica-o
+# gerenciador de estoque (c++)
 
 ## IDEIA: Sistema para gerenciamento de host
 ## COLABORADORES: Rogério Pedro, Leonardo França, Renato Julio, Jose Guilherme
