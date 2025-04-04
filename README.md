@@ -5,3 +5,4 @@
 
 Atualizações de 01/04/25 (Rogério): Versão inicial do HomePage. Atualização geral da função principal. Declaração das outras funções. Sistema de menu e volta integrados.
 Atualização de 04/04/25 (Rogério): Adição de titulos,
+Atualização de 04/04/25 (Guilherme): Adição das funções "adicionarItem", "removerItem" e "atualizarItem".
